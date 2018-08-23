@@ -1,0 +1,35 @@
+h1 {
+	width: 517.4px;
+	height: 100px;
+	background-color: #7DF6DA;
+	background-size: cover; 
+	text-align: center;
+	margin-top: 0px;
+	padding-top: 50px;
+	margin-left: 250px;
+}
+
+table {
+	width: 664px; 
+	height: 61px; 
+	margin-left: auto; 
+	margin-right: auto;}
+
+button {
+	background-color: red;
+	color: white;
+	border-radius: 31px;
+	border: solid, 3px, #05000C;
+}
+.titres {
+	width: 517.4px;
+	font-family: Comic Sans MS;
+}
+
+.object {
+	width: 143.6px;
+}
+
+.content {
+	width: 500px;
+}
