@@ -10,7 +10,7 @@
 #### En production
 
 L'appli rails c'est par ici  -> [Email App](
-https://git.heroku.com/appemailapp.git)
+https://appemailapp.herokuapp.com)
 
 #### En local 
 
